@@ -80,4 +80,4 @@ This project scrapes car listing data from Carmudi.vn, performs data cleaning an
 
 The analysis provides insights into the Vietnamese car market as listed on Carmudi.vn.
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard_overview_.png)
