@@ -43,7 +43,7 @@ This project scrapes car listing data from Carmudi.vn, performs data cleaning an
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/cxashs/btl_datascience_carmudi.git
+    git clone https://github.com/phulee9/btl_datascience_carmudi.git
     cd Car-Data-Scraping-Analysis
     ```
 
