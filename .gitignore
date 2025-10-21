@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+chromedriver.exe
+chromedriver
+btl_23_visualization.pdf
+*.rar
+crawl_cars_1.csv
+crawl_cars_1_cleaned.csv
+link_cars_detail.csv
